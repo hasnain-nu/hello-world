@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHup Flow
-this is read me branch and i have made some changes over here but this can not effect the main branch so now rhis branch contain content different from others 
+now am in readme-edits and i am going to commit some changes and upon these changes it will not effect the main branch and then on the very next step i will open a pull request "pull request are the heart of collaborations on GitHub. When we open a pull request we actually proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch". And in final step we will merge our pull request to merge changes into main and on confirm merging whatever changes that you had made in the branch will be there in main and at the end you can also delete you readme-edits branch it will not efect the main.  
